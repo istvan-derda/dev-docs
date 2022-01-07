@@ -33,5 +33,5 @@ xml file:
 
 ## Dynamic Wallpapers from the community
 
-https://dynamicwallpaper.club/
+https://github.com/saint-13/Linux_Dynamic_Wallpapers
 
