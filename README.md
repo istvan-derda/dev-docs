@@ -6,6 +6,7 @@
 - [z](https://github.com/rupa/z/) - For Jumping to frequently used directories with fuzzy search e.g `z shared`
 - [tldr](https://tldr.sh/) - usage examples for frequent commands. e.g. `tldr ssh`
 - [fkill](https://github.com/sindresorhus/fkill-cli) - interactively kill processes by name, pid or port e.g. `fkill firefox`
+- [git-delta](https://crates.io/crates/git-delta) - improves `git diff` and `git show`
 
 ## Python libraries
 
