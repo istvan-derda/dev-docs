@@ -1,0 +1,3 @@
+- [HOME](/)
+- [My Dev Setup](dev-setup)
+- [About GNOME Dynamic Wallpapers](gnome-dynamic-wallpapers)
