@@ -12,7 +12,7 @@
 
 - `users` / `who` / `w` - find out which users are currently logged in.
 - [`byobu`](https://www.byobu.org/) - teminal-based window manager. Keep your sessions between ssh-logins.
-- `tmux new-session -s sessionname` + `tmux attach-session -t sessionname` - Share your terminal-session with multiple users (see `tldr tmux`, [`tmux-command`](https://github.com/tmux/tmux), [tutorial](https://www.howtoforge.com/sharing-terminal-sessions-with-tmux-and-screen))
+- `tmux new-session -s sessionname` + `tmux attach-session -t sessionname` - Share your terminal-session with multiple users (see `tldr tmux`, [tmux-command](https://github.com/tmux/tmux), [tutorial](https://www.howtoforge.com/sharing-terminal-sessions-with-tmux-and-screen))
 
 ## Python libraries
 
