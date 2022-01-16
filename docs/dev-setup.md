@@ -7,6 +7,7 @@
 - [`tldr`](https://tldr.sh/) - usage examples for frequent commands. e.g. `tldr ssh`
 - [`fkill`](https://github.com/sindresorhus/fkill-cli) - interactively kill processes by name, pid or port e.g. `fkill firefox`
 - [git-delta](https://crates.io/crates/git-delta) - improves `git diff` and `git show`
+- [ncdu](https://dev.yorhel.nl/ncdu) - analyze diskusage with friendly ui
 
 ### On a Remote Machine
 
