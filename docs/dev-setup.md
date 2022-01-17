@@ -19,3 +19,4 @@
 
 - [FastAPI](https://fastapi.tiangolo.com/) - Web-api fast.
 - [Typer](https://typer.tiangolo.com/) - easy CLI
+- [tqdm](https://github.com/tqdm/tqdm) - easy progressbar with pandas-support
