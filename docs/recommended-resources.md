@@ -1,4 +1,4 @@
-# Resources I like to recommend
+# Resources I Like to Recommend
 
 ## On Languages
 
