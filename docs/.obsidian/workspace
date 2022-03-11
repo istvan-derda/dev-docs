@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b1a5f038340e722d",
+    "type": "split",
+    "children": [
+      {
+        "id": "47dfcb2b55cd7618",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b80d8d8c2759d87b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca1da21ed1bef00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd9a34a7a2d06df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dcde68daf15a29c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ba2e30de4c301e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3e0f3eabdb8317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dae52abe5c3302d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47dfcb2b55cd7618",
+  "lastOpenFiles": [
+    "README.md",
+    "recommended-resources.md",
+    "gnome-dynamic-wallpapers.md",
+    "dev-setup.md",
+    "_sidebar.md"
+  ]
+}
