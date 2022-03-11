@@ -2,7 +2,8 @@
 
 Documentation of anything interesting I encounter
 
-https://github.com/istvan-derda/dev-docs
+source: https://github.com/istvan-derda/dev-docs
+online: https://docs.isde.dev
 
 ## Edit
 
