@@ -1,3 +1,4 @@
 - [Dev Notes](dev-notes.md)
+- [Fix Scrolling in Firefox](scrolling-in-firefox)
 - [About GNOME Dynamic Wallpapers](gnome-dynamic-wallpapers)
 - [Recommended Resources](recommended-resources)
