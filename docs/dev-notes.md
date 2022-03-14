@@ -20,3 +20,27 @@
 - [FastAPI](https://fastapi.tiangolo.com/) - Web-api fast.
 - [Typer](https://typer.tiangolo.com/) - easy CLI
 - [tqdm](https://github.com/tqdm/tqdm) - easy progressbar with pandas-support
+
+## On Gunicorn, Uvicorn and Fastapi in Production
+
+**In a Kubernetes Cluster** deployment is recommended to be done via custom container from the python base image.
+
+Load balancing and replication should be handled at the cluster level.
+
+```Dockerfile
+FROM python:3.10.0-slim
+
+WORKDIR app
+
+COPY <requirements>
+RUN <install dependencies>
+
+COPY <code directory> ./<code directory>
+
+CMD uvicorn app.main:app --host 0.0.0.0
+
+```
+
+source: [Fastapi Docs](https://fastapi.tiangolo.com/deployment/docker/)
+
+**Without a cluster** you should check out the [uvicorn deployment documentation](https://www.uvicorn.org/deployment/).
