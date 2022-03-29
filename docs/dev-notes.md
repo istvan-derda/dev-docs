@@ -9,6 +9,21 @@
 - [git-delta](https://crates.io/crates/git-delta) - improves `git diff` and `git show`
 - [`ncdu`](https://dev.yorhel.nl/ncdu) - analyze diskusage with friendly ui
 
+## Commandline Tricks
+
+**shortcuts**
+- `ctrl`-`l` clear terminal
+- `ctrl`-`u` clear line
+- `ctrl`-`z` "minimize" current program (`fg` to bring it back)
+- `ctrl`-`a` jump to line start
+- `ctrl`-`e` jump to line end
+- `ctrl`-`w` delete last word
+
+**commands**
+- `sudo !!` - run the last command with sudo
+- `tail -f` - follow the newest lines of a file
+- `column -t` - format the output of another command in an aligned table e.g.: `mount | column -t`
+
 ## SSH Tricks
 
 - `users` / `who` / `w` - find out which users are currently logged in.
