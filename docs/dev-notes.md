@@ -22,7 +22,8 @@
 **commands**
 - `sudo !!` - run the last command with sudo
 - `tail -f` - follow the newest lines of a file
-- `column -t` - format the output of another command in an aligned table e.g.: `mount | column -t`
+- `column -t` - text to an aligned table e.g.: `mount | column -t`
+- `jq` - prettify json e.g.: `nc -l -p 8080 | jq`
 
 ## SSH Tricks
 
