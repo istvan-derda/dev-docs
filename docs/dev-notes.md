@@ -12,6 +12,7 @@
 - [git-delta](https://crates.io/crates/git-delta) - improves `git diff` and `git show`
 - [`ncdu`](https://dev.yorhel.nl/ncdu) - analyze diskusage with friendly ui
 - [`bat`](https://github.com/sharkdp/bat) - more beautiful `cat` output
+- [`wl-copy`](https://github.com/bugaevc/wl-clipboard) - copy anything from the commandline e.g. `cat .ssh/id_rsa.pub | wl-copy`
 
 ## Commandline Tricks
 
