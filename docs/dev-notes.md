@@ -2,9 +2,8 @@
 
 ## My Commandline Tooling
 
-- shell is zsh with [omz](https://ohmyz.sh/)
-- with autosuggestions and syntaxhighlighting [instructions](https://dev.to/kumareth/a-beginner-s-guide-for-setting-up-autocomplete-on-ohmyzsh-hyper-with-plugins-themes-47f2)
-
+shell is zsh with [omz](https://ohmyz.sh/)  
+with autosuggestions and syntaxhighlighting [instructions](https://dev.to/kumareth/a-beginner-s-guide-for-setting-up-autocomplete-on-ohmyzsh-hyper-with-plugins-themes-47f2)
 - [`fzf`](https://github.com/junegunn/fzf) - fuzzy finder, most useful with `ctrl-R`-Keybinding for interactive cmd-history search
 - [`z`](https://github.com/rupa/z/) - For Jumping to frequently used directories with fuzzy search e.g `z shared`
 - [`tldr`](https://tldr.sh/) - usage examples for frequent commands. e.g. `tldr ssh`
