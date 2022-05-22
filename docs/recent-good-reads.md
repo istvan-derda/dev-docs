@@ -2,12 +2,17 @@
 
 A place where I share interesting coding-related stuff I find on the internet.
 
-## Managing Dotfiles (Like A Superhero)
+## Managing Dotfiles (Like A Superhero)  
+2022-05-22
 
 I've seen git repos of configuration files before, but never knew, how to do go about putting my computers config files into version management. Today I found the Answer. **Jake Wiesler** wrote a great blog article about it. I highly recommend the linked YouTube video aswell.
 
 Blogpost: [Manage Your Dotfiles Like A Superhero](https://www.jakewiesler.com/blog/managing-dotfiles)  
-Video: [Manage Your Dotfiles Like A Superhero](https://www.youtube.com/watch?v=FHuwzbpTTo0)  
+Video: [Manage Your Dotfiles Like A Superhero](https://www.youtube.com/watch?v=FHuwzbpTTo0)
+
+An interesting alternative approach was shared by **Nicola Paolucci** utilizing a bare git repository.
+
+Blogpost: [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 
 ------
 
