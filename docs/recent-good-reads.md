@@ -2,6 +2,15 @@
 
 A place where I share interesting coding-related stuff I find on the internet.
 
+## Managing Dotfiles (Like A Superhero)
+
+I've seen git repos of configuration files before, but never knew, how to do go about putting my computers config files into version management. Today I found the Answer. **Jake Wiesler** wrote a great blog article about it. I highly recommend the linked YouTube video aswell.
+
+Blogpost: [Manage Your Dotfiles Like A Superhero](https://www.jakewiesler.com/blog/managing-dotfiles)  
+Video: [Manage Your Dotfiles Like A Superhero](https://www.youtube.com/watch?v=FHuwzbpTTo0)  
+
+------
+
 ## (Maybe) Coming Soon to a Browser Near You: Temporal API 
 Today I stumbled over a good read on handling date and time in code by one of the authors of the [Temporal API proposal](https://tc39.es/proposal-temporal/) on [Planet GNOME](https://planet.gnome.org). It once again shows how much more complex date and time handling are than you usually assume. That lead me to check out the Temporal API proposal, which is now something I'm really excited for.
 
