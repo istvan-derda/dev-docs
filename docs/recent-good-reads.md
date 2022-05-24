@@ -2,6 +2,14 @@
 
 A place where I share interesting coding-related stuff I find on the internet.
 
+## Managing Python Versions
+
+2022-05-24
+
+I found this blogpost by **Logan Jones** on *realpython.com* why (and how) you should manage your python versions with pyenv. Perfect resource with all the important information on pyenv in one place.
+
+Blogpost: [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
+
 ## Managing Dotfiles (Like A Superhero)  
 2022-05-22
 
