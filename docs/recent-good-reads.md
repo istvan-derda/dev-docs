@@ -10,6 +10,17 @@ I found this blogpost by **Logan Jones** on *realpython.com* why (and how) you s
 
 Blogpost: [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/)
 
+Additional Info:
+
+I had some trouble installing pyenv on fedora 36. My solution:
+1. Install the dependencies (as in the blogpost)
+2. Install pyenv (as in the blogpost)
+3. Install some python version (fails)
+4. Install python version with verbose (-v) flag like `pyenv install -v 3.10.0`
+5. check the output, google the commands on which the installation failed (for me it was missing `patch`)
+6. install command with package-manager (for me `dnf install patch`)
+7. back to 3. until you succeed
+
 ## Managing Dotfiles (Like A Superhero)  
 2022-05-22
 
